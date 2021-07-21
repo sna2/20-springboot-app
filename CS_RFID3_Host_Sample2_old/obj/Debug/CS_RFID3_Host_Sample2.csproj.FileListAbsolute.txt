@@ -1,0 +1,333 @@
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\Symbol.RFID3.Host.dll
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\Symbol.RFID3.Host.xml
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.exe
+C:\Users\Public\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.pdb
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.exe
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.pdb
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.pdb
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csprojResolveAssemblyReference.cache
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+D:\sdk&software\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.exe
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.pdb
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.pdb
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+E:\SURYA\DOTNET\Motorola EMDK for .NET\Motorola EMDK for .NET\Motorola EMDK for .NET\v2.9\Samples VS2008\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csprojResolveAssemblyReference.cache
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.exe
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.pdb
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.pdb
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csprojResolveAssemblyReference.cache
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+F:\Source and Backup\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe.config
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.pdb
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.exe
+D:\arul\DubaiWindowProject\Source\CS_RFID3_Host_Sample2\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.pdb
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe.config
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.pdb
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Item_Registration.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.NewItem.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.exe
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.pdb
+D:\arul\DubaiWindowProject\Source\LatestWarehouse\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csprojResolveAssemblyReference.cache
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe.config
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.pdb
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Item_Registration.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.NewItem.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.exe
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.pdb
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe.config
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.exe
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.pdb
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.exe
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\bin\debug\CS_RFID3_Host_Sample2.pdb
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Item_Registration.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.NewItem.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+F:\Source and Backup\new Dubai warehouse\DubaiFinalsource\DubaiFinalsource\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\bin\debug\CS_RFID3_Host_Sample2.exe.config
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\bin\debug\CS_RFID3_Host_Sample2.exe
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\bin\debug\CS_RFID3_Host_Sample2.pdb
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.Item_Registration.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.NewItem.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.exe
+D:\arul\DubaiWindowProject\Source\Latsetwindowsproject\Latestmultireaderwindowsapplications\Finalupdatemultireaderchange\CS_RFID3_Host_Sample2_old\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.pdb
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\bin\debug\CS_RFID3_Host_Sample2.exe.config
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\bin\debug\CS_RFID3_Host_Sample2.exe
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\bin\debug\CS_RFID3_Host_Sample2.pdb
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.AccessFilterForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.AntennaConfigForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.AntennaInfoForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.AntennaModeForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.AppForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.BlockEraseForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.CapabilitiesForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.Item_Registration.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.NewItem.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.ReaderInfoForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.FirmwareUpdateForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.HelpForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.KillForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.LocateForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.LockForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.LoginForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.MotoProgressBar.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.PostFilterForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.PreFilterForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.ReadForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.ReadPointForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.RFModeForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.SingulationForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.TagDataForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.TagStorageSettingsForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.WriteForm.resources
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.Cache
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.exe
+D:\arul\SainGobainTrallyTracking\CS_RFID3_Host_Sample2_old\obj\Debug\CS_RFID3_Host_Sample2.pdb
